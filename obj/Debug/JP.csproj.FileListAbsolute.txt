@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\bin\Debug\JP.exe.config
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\bin\Debug\JP.exe
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\bin\Debug\JP.pdb
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\obj\Debug\JP.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\obj\Debug\JP_MarkupCompile.cache
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\obj\Debug\JP_MarkupCompile.lref
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\obj\Debug\JP.g.resources
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\obj\Debug\JP.Properties.Resources.resources
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\obj\Debug\JP.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\obj\Debug\JP.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\obj\Debug\JP.exe
+C:\Users\Dell\Documents\Exos\WPF\Juste_Prix\JP\JP\obj\Debug\JP.pdb
